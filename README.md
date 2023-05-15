@@ -6,7 +6,8 @@
 - 🌱 I’m currently learning **Data analyst from Great Learning**
 
 - 📫 How to reach me **chinmayakumar119@gmail.com**
-
+- 
+-<img align="right" alt="coding" width="400" src=[![image](https://github.com/im-chinmayakumar/im-chinmayakumar/assets/116955932/0cad874f-b498-4dcd-9e36-ca63e9839f4f)](https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/imchinmayakumar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/imchinmayakumar/" height="30" width="40" /></a>
