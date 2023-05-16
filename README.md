@@ -6,7 +6,6 @@
 - 🌱 I’m currently learning **Data analyst from Great Learning**
 
 - 📫 How to reach me **chinmayakumar119@gmail.com**
-- 
 -<img align="right" alt="coding" width="500" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
