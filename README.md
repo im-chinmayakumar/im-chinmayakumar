@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chinmaya kumar</h1>
-<h3 align="center">An Aspiring Data analyst</h3>
+<h3 align="center">An Associate Data analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=im-chinmayakumar&label=Profile%20views&color=0e75b6&style=flat" alt="im-chinmayakumar" /> </p>
 
